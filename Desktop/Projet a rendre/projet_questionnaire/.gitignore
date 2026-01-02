@@ -1,0 +1,22 @@
+# --- Fichiers temporaires Visual Studio (la cause de ton erreur) ---
+.vs/
+*.slnx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Fichiers de compilation (inutiles sur GitHub) ---
+x64/
+Debug/
+Release/
+arm64/
+
+# --- Fichiers générés ---
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
