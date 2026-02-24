@@ -1,0 +1,14 @@
+# Compilation
+build/
+out/
+*.o
+*.obj
+
+# Qt Creator
+*.user
+*.user.*
+.qtcreator/
+
+# Exécutables
+*.exe
+*.app
